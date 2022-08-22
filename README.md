@@ -37,11 +37,11 @@ Nous avons utiliser les données de l'API suivante: https://api.obis.org/
 ## Résultats
 
 ![obis3Dview](https://user-images.githubusercontent.com/82103105/185962715-a4de2a5d-5466-4980-b0fa-04a06bf2a423.png)
-Voici une capture d'écran de l'interface développée:
+Voici une capture d'écran de l'interface développée
 
 ## Installation
 
-- Ajout du module suivants dans les configurations de la classe Main de l'application :
+Ajout du module suivants dans les configurations de la classe Main de l'application :
 ```
 --module-path PATH\javafx-sdk-11.0.2\lib --add-modules javafx.controls,javafx.fxml 
 ```
